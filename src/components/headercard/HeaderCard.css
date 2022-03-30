@@ -15,6 +15,7 @@
 .card-wrapper-left p {
     margin-left : 10px;
     font-size: 12px;
+    font-weight : bold;
 }
 
 .image-wrapper-left {
@@ -46,6 +47,7 @@
 
 .card-wrapper-top p {
     font-size: 12px;
+    font-weight : bold;
 }
 .card-wrapper-bottom p {
     font-size: 8px;
