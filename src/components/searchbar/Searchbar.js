@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
-import SearchIcon from '@mui/icons-material/Search';
-import CloseIcon from '@mui/icons-material/Close';
+import {AiOutlineSearch , AiOutlineClose}  from 'react-icons/ai';
 import "./Searchbar.css"
 
 const Searchbar = ({placeholder , data}) => {
@@ -29,7 +28,7 @@ const Searchbar = ({placeholder , data}) => {
         <div className = "searchInputs">
             <input type = "text" placeholder = {placeholder} value = {wordEntered} onChange = {handleFilter}/>
             <div className = "searchIcon">
-                {wordEntered.length === 0 ? <SearchIcon /> : <CloseIcon id = "clearBtn" onClick = {clearInput}/>}
+                {wordEntered.length === 0 ? <AiOutlineSearch /> : <AiOutlineClose id = "clearBtn" onClick = {clearInput}/>}
             </div>
         </div>
         {filteredData.length !== 0 && (

@@ -1,8 +1,8 @@
-import { ChangeHistory } from '@mui/icons-material'
+import { MdChangeHistory } from 'react-icons/md'
 import React from 'react'
-import "./Header_card.css"
+import "./HeaderCard.css"
 
-const Header_Card = ({ currency, country, status, price, change, percentage }) => {
+const HeaderCard = ({ currency, country, status, price, change, percentage }) => {
   return (
     <div className="header-card-wrapper">
       <div className="card-wrapper-left">
@@ -12,7 +12,7 @@ const Header_Card = ({ currency, country, status, price, change, percentage }) =
       <div className="card-wrapper-right">
         <div className="card-wrapper-top">
           <div className="card-icon">
-            <ChangeHistory />
+            <MdChangeHistory />
           </div>
           <p >{price}</p>
         </div>
@@ -24,4 +24,4 @@ const Header_Card = ({ currency, country, status, price, change, percentage }) =
   )
 }
 
-export default Header_Card
+export default HeaderCard
