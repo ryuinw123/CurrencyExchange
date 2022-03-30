@@ -1,0 +1,5 @@
+[
+    {"currency" : "US","country" : "United State"},
+    {"currency": "TH" , "country" : "Thailand"},
+    {"currency" : "JP", "country" : "Japan"}
+]
