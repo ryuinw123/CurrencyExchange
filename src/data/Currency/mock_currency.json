@@ -5,5 +5,8 @@
     {"currency" : "USD50", "country" : "Sweden.png", "status" : "up","price" : "33.00" ,  "change" : "1.00" , "percentage" : "1.00%"},
     {"currency" : "USD50", "country" : "Sweden.png", "status" : "down","price" : "33.00" ,  "change" : "1.00" , "percentage" : "1.00%"},
     {"currency" : "USD50", "country" : "Sweden.png", "status" : "up","price" : "33.00" ,  "change" : "1.00" , "percentage" : "1.00%"},
-    {"currency" : "USD50", "country" : "Sweden.png", "status" : "equal","price" : "33.00" ,  "change" : "1.00" , "percentage" : "1.00%"}
+    {"currency" : "USD50", "country" : "Sweden.png", "status" : "up","price" : "33.00" ,  "change" : "1.00" , "percentage" : "1.00%"},
+    {"currency" : "USD50", "country" : "Sweden.png", "status" : "up","price" : "33.00" ,  "change" : "1.00" , "percentage" : "1.00%"},
+    {"currency" : "USD50", "country" : "Sweden.png", "status" : "up","price" : "33.00" ,  "change" : "1.00" , "percentage" : "1.00%"},
+    {"currency" : "USD50", "country" : "Sweden.png", "status" : "up","price" : "33.00" ,  "change" : "1.00" , "percentage" : "1.00%"}
 ]

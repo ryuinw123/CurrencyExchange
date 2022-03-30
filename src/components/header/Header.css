@@ -59,7 +59,7 @@
 
 .navbar-logo {
     color : black;
-    font-size: 1px;
+    font-size: 1.5rem;
     margin-right : auto
 }
 
@@ -102,6 +102,8 @@
     height: 60px;
     width: 60%;
     margin: auto;
+    display: flex;
+    overflow-x:hidden;
 }
 .currency-wrapper {
     background-color: rgba(255, 255, 255, 0.75);

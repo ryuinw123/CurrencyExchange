@@ -5,7 +5,7 @@ import "./Header.css"
 import { MdAccountBalance, MdOutlineDarkMode } from 'react-icons/md';
 import Currency from "../../data/Currency/mock_data.json"
 import { ThemeContext } from '../../context';
-import image from '../../data/Flag/Sweden.png'
+import data from '../../data/Currency/mock_currency.json'
 import HeaderCard from '../headercard/HeaderCard.js';
 
 const Header = () => {
@@ -49,7 +49,9 @@ const Header = () => {
             </div>
             <div className="currency-wrapper">
                 <div className="currency">
-                    <HeaderCard currency= "USD50" country={image} status = "up" price = "33.00" change= "1.00" percentage = "1.00%" />
+                    {data.map((value, key) => {
+                        return <HeaderCard currency= {value.currency} country={require("../../data/Flag/" + value.country)} status={value.status} price={value.price} change={value.change} percentage={value.percentage} />
+                    })}
                 </div>
             </div>
         </div>

@@ -1,8 +1,9 @@
 .header-card-wrapper {
     display: flex;
-    width: 223px;
+    width: 226px;
     height: 100%;
-    border-right: solid 1px;
+    align-items: center;
+    flex-shrink: 0
 }
 
 .card-wrapper-left {
@@ -21,6 +22,7 @@
     width: 36px;
     overflow: hidden;
     border-radius: 20px;
+    margin-left: 10px;
 
 }
 .a-img {
@@ -51,5 +53,11 @@
 
 .card-icon {
     font-size: 0.8rem;
-    color : green;
+}
+
+.border {
+    width: 30px;
+    height: 0px;
+    border: 2px solid #A0A0A0;
+    transform: rotate(90deg);
 }
