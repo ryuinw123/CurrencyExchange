@@ -8,9 +8,9 @@ const CurrencyCard = ({props}) => {
     function GenerateIcon() {
         if (props.status === "up")
           return <div style={{ color: "#00FF00" }}>
-            <div className="card-wrapper" style={{ color: "#00FF00" }}>
-              <div className="card-icon"><IoTriangleSharp /></div>
-              <div>
+            <div className="card-wrapper" style={{ color: "#00FF00"}}>
+              <div className="card-icon" style = {{ transform : "translate(0px,-1px)" }}><IoTriangleSharp /></div>
+              <div className = "card-text-wrapper">
                   <h1>
                   {props.price}
                   </h1>
@@ -23,8 +23,8 @@ const CurrencyCard = ({props}) => {
         if (props.status === "down")
           return <div style={{ color: "#FF0000" }}>
             <div className="card-wrapper">
-              <div className="card-icon" style={{ transform: "rotate(180deg)" }}><IoTriangleSharp /></div>
-              <div>
+              <div className="card-icon" style={{ transform: "rotate(180deg)" , transform : "translate(0px,-3px)" }}><IoTriangleSharp /></div>
+              <div className = "card-text-wrapper">
                   <h1>
                   {props.price}
                   </h1>
@@ -38,7 +38,7 @@ const CurrencyCard = ({props}) => {
           return <div style={{ color: "#F1F100" }}>
             <div className="card-wrapper">
               <div className="card-icon" ><VscTriangleLeft /><VscTriangleRight /></div>
-              <div>
+              <div className = "card-text-wrapper">
                   <h1>
                   {props.price}
                   </h1>
