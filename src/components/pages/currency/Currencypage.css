@@ -1,0 +1,82 @@
+
+.currency-image-wrapper {
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 47.76%, #FFFFFF 64.5%), url('../../../data/Background/money.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 95vh;
+}
+
+.currency-box {
+    position: absolute;
+    width: 480px;
+    height: 200px;
+    left:20%;
+    top: 24%;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(25px);
+}
+
+.currency-box h1{
+    margin-left : 5px;
+}
+
+.currency-text {
+    padding: 65px 0px 0px 50px;
+    display:flex;
+}
+.icon-wrapper {
+    font-size: 2.4rem;
+}
+
+.top-left {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-left : solid 2px #5D5D5D;
+    border-top : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    top : 15px;
+    left : 15px
+}
+
+.top-right {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-right : solid 2px #5D5D5D;
+    border-top : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    top : 15px;
+    right : 15px
+}
+.bottom-left {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-left : solid 2px #5D5D5D;
+    border-bottom : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    bottom : 15px;
+    left : 15px
+}
+.bottom-right {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-right : solid 2px #5D5D5D;
+    border-bottom : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    bottom : 15px;
+    right : 15px
+}
+
+.currency-list {
+    width: 50.78vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    border: solid 1px;
+}

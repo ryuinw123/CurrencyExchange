@@ -1,0 +1,13 @@
+[
+    {"currency" : "CAD", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "down", "price" :"71.32", "Open" : "65.11" , "high" : "187.39" , "low" : "124.49", "change" : "+4.18" , "percentage" : "+1.78%"},
+    {"currency" : "KRW", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "up", "price" :"124.07", "Open" : "68.64" , "high" : "95.86" , "low" : "48.08", "change" : "+3.36" , "percentage" : "+0.52%"},
+    {"currency" : "USD1", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "equal", "price" :"46.76", "Open" : "199.52" , "high" : "15.41" , "low" : "22.46", "change" : "+2.4" , "percentage" : "+1.09%"},
+    {"currency" : "VND", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "down", "price" :"41.36", "Open" : "195.5" , "high" : "145.57" , "low" : "113.44", "change" : "+0.11" , "percentage" : "+0.04%"},
+    {"currency" : "KHR", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "up", "price" :"115.03", "Open" : "17.26" , "high" : "122.04" , "low" : "198.68", "change" : "+3.09" , "percentage" : "+0.85%"},
+    {"currency" : "IDR", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "down", "price" :"139.29", "Open" : "177.54" , "high" : "152.58" , "low" : "81.91", "change" : "+2.8" , "percentage" : "+1.44%"},
+    {"currency" : "LAK", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "equal", "price" :"89.14", "Open" : "78.14" , "high" : "32.2" , "low" : "38.8", "change" : "+1.31" , "percentage" : "+1.55%"},
+    {"currency" : "KHR", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "up", "price" :"48.6", "Open" : "100.32" , "high" : "22.69" , "low" : "106.19", "change" : "+1.18" , "percentage" : "+0.48%"},
+    {"currency" : "BHD", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "equal", "price" :"1.96", "Open" : "163.11" , "high" : "65.01" , "low" : "83.15", "change" : "+1.7" , "percentage" : "+1.15%"},
+    {"currency" : "PHP", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "down", "price" :"111.91", "Open" : "172.51" , "high" : "100.26" , "low" : "164.37", "change" : "+4.77" , "percentage" : "+0.84%"},
+    {"currency" : "AUD", "name":"united states of america" , "country" : "Sweden.png", "description":"Baht","status" : "equal", "price" :"14.38", "Open" : "187.51" , "high" : "176.0" , "low" : "68.82", "change" : "+4.88" , "percentage" : "+0.39%"}
+]

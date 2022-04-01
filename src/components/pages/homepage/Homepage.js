@@ -1,11 +1,9 @@
 import React from 'react'
-import backgroudimage from '../../../data/Backgroud/currency.png'
 import "./Homepage.css"
 
 const Homepage = () => {
     return (
         <div className="home-image-wrapper">
-            <img src={backgroudimage} alt="" className="home-background-image" />
             <div className="homepage-box">
                 <div className="homepage-text">
                     <h1>

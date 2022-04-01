@@ -1,13 +1,12 @@
 .home-image-wrapper {
     position: relative;
-    width: 100%;
-}
-
-.home-background-image {
-    width : 100%;
-    object-fit: cover;
+    width: 100vw;
+    height: 86vh;
+    background-image: url('../../../data/Background/currency.jpg');
+    background-position: center;
 
 }
+
 .homepage-box {
     position: absolute;
     width: 600px;
@@ -21,12 +20,16 @@
     padding: 85px 0px 0px 50px
 }
 
+.homepage-text h1 {
+    font-weight: bold;
+}
+
 .top-left {
     position: absolute;
     width: 14px;
     height: 14px;
-    border-left : solid 2px;
-    border-top : solid 2px;
+    border-left : solid 2px #5D5D5D;
+    border-top : solid 2px #5D5D5D;
     border-color: #5D5D5D;
     top : 20px;
     left : 20px
@@ -36,8 +39,8 @@
     position: absolute;
     width: 14px;
     height: 14px;
-    border-right : solid 2px;
-    border-top : solid 2px;
+    border-right : solid 2px #5D5D5D;
+    border-top : solid 2px #5D5D5D;
     border-color: #5D5D5D;
     top : 20px;
     right : 20px
@@ -46,8 +49,8 @@
     position: absolute;
     width: 14px;
     height: 14px;
-    border-left : solid 2px;
-    border-bottom : solid 2px;
+    border-left : solid 2px #5D5D5D;
+    border-bottom : solid 2px #5D5D5D;
     border-color: #5D5D5D;
     bottom : 20px;
     left : 20px
@@ -56,8 +59,8 @@
     position: absolute;
     width: 14px;
     height: 14px;
-    border-right : solid 2px;
-    border-bottom : solid 2px;
+    border-right : solid 2px #5D5D5D;
+    border-bottom : solid 2px #5D5D5D;
     border-color: #5D5D5D;
     bottom : 20px;
     right : 20px

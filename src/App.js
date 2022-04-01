@@ -4,6 +4,7 @@ import Header from './components/header/Header';
 import { ThemeContext } from './context';
 import Home from './components/pages/homepage/Homepage'
 import './App.css';
+import Currencypage from './components/pages/currency/Currencypage';
 
 function App() {
   const theme = useContext(ThemeContext);
@@ -14,6 +15,7 @@ function App() {
         <Header />
         <Switch>
           <Route path='/' exact element = {<Home />} />
+          <Route path = '/currency' exact element = {<Currencypage />} />
         </Switch>
       </Router>
     </div>

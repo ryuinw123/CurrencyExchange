@@ -28,7 +28,7 @@ const Header = () => {
                     <div className="navbar-container-right">
                         <ul className="nav-menu" >
                             <li className="nav-item">
-                                <Link to="/" className="nav-links">
+                                <Link to="/currency" className="nav-links">
                                     Currency
                                 </Link>
                             </li>
