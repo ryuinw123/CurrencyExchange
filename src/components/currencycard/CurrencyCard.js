@@ -23,7 +23,7 @@ const CurrencyCard = ({props}) => {
         if (props.status === "down")
           return <div style={{ color: "#FF0000" }}>
             <div className="card-wrapper">
-              <div className="card-icon" style={{ transform: "rotate(180deg)" , transform : "translate(0px,-3px)" }}><IoTriangleSharp /></div>
+              <div className="card-icon" style={{ transform: "rotate(180deg) translate(0px,8px)" }}><IoTriangleSharp /></div>
               <div className = "card-text-wrapper">
                   <h1>
                   {props.price}
