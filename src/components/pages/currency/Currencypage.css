@@ -72,7 +72,7 @@
 
 .currency-list {
     width: 50.78vw;
-    margin: auto;
+    margin: 0 auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

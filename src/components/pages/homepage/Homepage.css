@@ -4,6 +4,8 @@
     height: 86vh;
     background-image: url('../../../data/Background/currency.jpg');
     background-position: center;
+    background-size: cover;
+    background-position: center;
 
 }
 

@@ -1,0 +1,210 @@
+.currency-image-wrapper {
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 47.76%, #FFFFFF 64.5%), url('../../../data/Country/America.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.currency-box {
+    position: absolute;
+    width: 30rem;
+    height: 10.5rem;
+    left:20%;
+    top: 24%;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(25px);
+}
+
+.currency-box h1{
+    padding: 3.5rem 1.875rem;
+}
+
+.top-left {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-left : solid 2px #5D5D5D;
+    border-top : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    top : 15px;
+    left : 15px
+}
+
+.top-right {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-right : solid 2px #5D5D5D;
+    border-top : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    top : 15px;
+    right : 15px
+}
+.bottom-left {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-left : solid 2px #5D5D5D;
+    border-bottom : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    bottom : 15px;
+    left : 15px
+}
+.bottom-right {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-right : solid 2px #5D5D5D;
+    border-bottom : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    bottom : 15px;
+    right : 15px
+}
+
+.box-wrapper {
+    width: 50.78vw;
+    margin: 0 auto;
+}
+
+.top-currency-wrapper {
+    height: 120px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    border: 1px solid #A0A0A0;
+    margin-bottom: 11px;
+}
+
+.price-box {
+    margin : 11px 0;
+    height: 40px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    border: 1px solid #A0A0A0;
+}
+
+.graph-box {
+    margin : 11px 0px;
+    height: 540px;
+    border: 1px solid #A0A0A0;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+}
+
+.exchange-box {
+    margin-top: 13px;
+    height: 500px;
+    border: 1px solid #A0A0A0;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns : 9.16fr 22.24fr 17.81fr;
+    grid-template-rows: repeat(1,80px);
+    grid-template-areas: 
+            "blank buy sell"
+            "ka-img ka ka"
+            "sc-img sc sc"
+            "ba-img ba ba"
+            "kt-img kt kt"
+            "ks-img ks ks"
+    ;
+}
+.detail {
+    position :relative;
+    flex: 1;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.border-detail {
+    position: absolute;
+    right :0;
+    height: 30px;
+    border-right: 1px solid;
+}
+.buy{
+    margin: auto 0;
+    grid-area: buy;
+}
+.buy-color{
+    background: #FFD600;
+}
+.exchange-wrapper {
+    display: flex;
+    border-radius: 12px;
+}
+
+
+.exchange-wrapper p {
+    flex : 1;
+    text-align: center;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+
+}
+.sell {
+    margin: auto 0;
+    grid-area : sell;
+}
+
+.sell-color {
+    background: #005BBC;
+    color: #ECECEC;
+}
+.ka-img {
+    border: solid 1px;
+    grid-area: ka-img;
+}
+.ka {
+    grid-area:ka;
+}
+.sc-img {
+    border : solid 1px;
+    grid-area: sc-img;
+}
+.sc {
+    border: solid 1px;
+    grid-area: sc;
+}
+.ba-img {
+    border: solid 1px;
+    grid-area: ba-img;
+}
+.ba {
+    border: solid 1px;
+    grid-area: ba;
+}
+.kt-img {
+    border: solid 1px;
+    grid-area: kt-img;
+}
+.kt {
+    border: solid 1px;
+    grid-area: kt;
+}
+.ks-img {
+    border: solid 1px;
+    grid-area: ks-img;
+}
+.ks {
+    border: solid 1px;
+    grid-area: ks;
+}
+
+.country-exchange-rate {
+    height: 100%;
+    display: flex;
+    margin: auto 0;
+    align-items: center;
+}
+.country-exchange-rate p {
+    flex:1;
+    text-align: right;
+}
+
+.background-cream {
+    background: #ECECEC;
+}
+

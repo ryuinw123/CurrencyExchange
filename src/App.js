@@ -5,6 +5,7 @@ import { ThemeContext } from './context';
 import Home from './components/pages/homepage/Homepage'
 import './App.css';
 import Currencypage from './components/pages/currency/Currencypage';
+import Detailpage from './components/pages/detailpage/Detailpage';
 
 function App() {
   const theme = useContext(ThemeContext);
@@ -15,7 +16,8 @@ function App() {
         <Header />
         <Switch>
           <Route path='/' exact element = {<Home />} />
-          <Route path = '/currency' exact element = {<Currencypage />} />
+          <Route path = '/currency' element = {<Currencypage />} />
+          <Route path = '/detail' element = {<Detailpage />}/>
         </Switch>
       </Router>
     </div>
