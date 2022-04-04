@@ -12,10 +12,10 @@ const CurrencyCard = ({props}) => {
               <div className="card-icon" style = {{ transform : "translate(0px,-1px)" }}><IoTriangleSharp /></div>
               <div className = "card-text-wrapper">
                   <h1>
-                  {props.price}
+                  {props.price}฿
                   </h1>
                   <p>
-                      {props.change}({props.percentage})
+                      +{props.change}(+{props.percentage})
                   </p>
               </div>
             </div>
@@ -26,10 +26,10 @@ const CurrencyCard = ({props}) => {
               <div className="card-icon" style={{ transform: "rotate(180deg) translate(0px,8px)" }}><IoTriangleSharp /></div>
               <div className = "card-text-wrapper">
                   <h1>
-                  {props.price}
+                  {props.price}฿
                   </h1>
                   <p>
-                      {props.change}({props.percentage})
+                      -{props.change}(-{props.percentage})
                   </p>
               </div>
             </div>
@@ -40,10 +40,10 @@ const CurrencyCard = ({props}) => {
               <div className="card-icon" ><VscTriangleLeft /><VscTriangleRight /></div>
               <div className = "card-text-wrapper">
                   <h1>
-                  {props.price}
+                  {props.price}฿
                   </h1>
                   <p>
-                      {props.change}({props.percentage})
+                      +{props.change}(+{props.percentage})
                   </p>
               </div>
             </div>

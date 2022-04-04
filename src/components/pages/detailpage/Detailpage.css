@@ -1,11 +1,11 @@
-.currency-image-wrapper {
+.detail-image-wrapper {
     background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 47.76%, #FFFFFF 64.5%), url('../../../data/Country/America.jpg');
     background-size: cover;
     background-position: center;
     height: 90vh;
 }
 
-.currency-box {
+.detail-box {
     position: absolute;
     width: 30rem;
     height: 10.5rem;
@@ -15,7 +15,7 @@
     backdrop-filter: blur(25px);
 }
 
-.currency-box h1{
+.detail-box h1{
     padding: 3.5rem 1.875rem;
 }
 
@@ -72,7 +72,50 @@
     border-radius: 8px;
     border: 1px solid #A0A0A0;
     margin-bottom: 11px;
+    display: flex;
+    justify-content: space-between;
 }
+
+.top-currency-wrapper .detail-left-wrapper {
+    display : flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.top-currency-wrapper .detail-img-wrapper{
+    width: 8.563rem;
+    height: 4.5rem;
+}
+
+.top-currency-wrapper .detail-img-wrapper img {
+    width: 100%;
+    height: 100%;
+}
+
+.top-currency-wrapper .detail-currency-wrapper {
+    padding-left: 10px;
+}
+
+.detail-right-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding : 20px;
+}
+
+.detail-icon-wrapper {
+    font-size: 2rem;
+}
+
+.detail-upper-wrapper {
+    display: flex;
+}
+.detail-down-wrapper p {
+    text-align: right;
+
+}
+
+
 
 .price-box {
     margin : 11px 0;
@@ -80,6 +123,55 @@
     box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
     border-radius: 8px;
     border: 1px solid #A0A0A0;
+    display: grid;
+    grid-template-columns : 1fr 1fr 1fr;
+    grid-template-areas: 
+            "open-price high-price low-price"
+    ;
+}
+
+.border-detail-pricebox {
+
+    position: absolute;
+    right: 0px;
+    top : 0px;
+    height: 24px;
+    border-right: 2px solid #CCCCCC;
+}
+
+
+.detail-open {
+    position : relative;
+    grid-area : open-price;
+    margin : auto 0;
+    padding : 0px 20px;
+}
+
+
+.detail-high{
+    position:relative;
+    grid-area: high-price;
+    margin : auto 0;
+    padding : 0px 20px;
+}
+.detail-high p {
+    color : #00FF00;
+}
+
+.detail-inside {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.detail-low {
+    grid-area: low-price;
+    margin : auto 0;
+    padding : 0px 20px;
+}
+
+.detail-low p {
+    color : #FF0000;
+;
 }
 
 .graph-box {

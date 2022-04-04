@@ -6,6 +6,7 @@ import Home from './components/pages/homepage/Homepage'
 import './App.css';
 import Currencypage from './components/pages/currency/Currencypage';
 import Detailpage from './components/pages/detailpage/Detailpage';
+import datadetail from "./data/Currency/mock_detail_page.json"
 
 function App() {
   const theme = useContext(ThemeContext);
@@ -17,7 +18,7 @@ function App() {
         <Switch>
           <Route path='/' exact element = {<Home />} />
           <Route path = '/currency' element = {<Currencypage />} />
-          <Route path = '/detail' element = {<Detailpage />}/>
+          <Route path = '/detail' element = {<Detailpage props = {datadetail[0]}/>}/>
         </Switch>
       </Router>
     </div>
