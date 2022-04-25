@@ -1,0 +1,6482 @@
+[
+    {
+      "month": "2010-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 18502
+    },
+    {
+      "month": "2010-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 19190
+    },
+    {
+      "month": "2010-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 19001
+    },
+    {
+      "month": "2010-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 889
+    },
+    {
+      "month": "2010-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 19889
+    },
+    {
+      "month": "2010-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 20501
+    },
+    {
+      "month": "2010-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 22400
+    },
+    {
+      "month": "2010-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 20090
+    },
+    {
+      "month": "2010-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 852
+    },
+    {
+      "month": "2010-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 21899
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 19989
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 23180
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 21390
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 852
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 22401
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 20340
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 23889
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 23501
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1001
+    },
+    {
+      "month": "2010-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 24229
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 20802
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 26389
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 27001
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1159
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 27590
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 28389
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 36089
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 32890
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1200
+    },
+    {
+      "month": "2010-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 42001
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 34001
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 45501
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 36511
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1221
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 49000
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 30000
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 40001
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 35556
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1253
+    },
+    {
+      "month": "2010-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 43003
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 26102
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 38000
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 32501
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1252
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 39002
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 27389
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 34600
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 29389
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1312
+    },
+    {
+      "month": "2010-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 39000
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 29501
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 35909
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 31389
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1320
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 41010
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 31510
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 39911
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 31689
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1454
+    },
+    {
+      "month": "2010-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 41006
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 29501
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 35909
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 31389
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1320
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 41010
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 36162
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 42889
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 30601
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1290
+    },
+    {
+      "month": "2010-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 43565
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 32104
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 43334
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 30112
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1301
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 42901
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 29000
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 42810
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 30002
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1251
+    },
+    {
+      "month": "2010-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 43501
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 33089
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 44129
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 33000
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1502
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 44001
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 30001
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 42501
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 31001
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1452
+    },
+    {
+      "month": "2010-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 43290
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 33132
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 42801
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 30889
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1502
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 44090
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 32415
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 44600
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 30511
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1689
+    },
+    {
+      "month": "2010-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 44900
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 34001
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 45501
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 31006
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1452
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 46001
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 39000
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 47890
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 31202
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1502
+    },
+    {
+      "month": "2010-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 49890
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 47604
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 62502
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 32001
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1701
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 64900
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 46129
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 72001
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 33501
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1551
+    },
+    {
+      "month": "2010-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 76102
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 38889
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 69000
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 35111
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1503
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 75789
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 40123
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 58910
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 30000
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1690
+    },
+    {
+      "month": "2011-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 67009
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 37124
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 53400
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 28589
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1819
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 58890
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 42999
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 62000
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 29011
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2001
+    },
+    {
+      "month": "2011-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 62001
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 42600
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 61894
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 30001
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2604
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 62010
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 43813
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 57002
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 29690
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2534
+    },
+    {
+      "month": "2011-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 59073
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 43212
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 55001
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 28189
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2490
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 57100
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 44000
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 56801
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 23900
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2502
+    },
+    {
+      "month": "2011-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 56001
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 44790
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 56011
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 21889
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2253
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 56490
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 46989
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 56300
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 22989
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2013
+    },
+    {
+      "month": "2011-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 56889
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 53390
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 63000
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 29006
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2491
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 62000
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 50244
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 67700
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 31089
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2290
+    },
+    {
+      "month": "2011-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 65490
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 55989
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 68501
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 32590
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2360
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 68811
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 56002
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 72501
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 34502
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2012
+    },
+    {
+      "month": "2011-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 74490
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 48801
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 70890
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 34009
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1890
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 70117
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 49301
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 65521
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 32289
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1999
+    },
+    {
+      "month": "2011-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 67000
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 51000
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 63002
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 31900
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2339
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 65589
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 48006
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 64889
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 30089
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2109
+    },
+    {
+      "month": "2011-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 62502
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 50289
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 63600
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 32801
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2078
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 65058
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 56112
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 75889
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 37011
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2091
+    },
+    {
+      "month": "2011-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 73600
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 55997
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 77000
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 40803
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2012
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 78001
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 54887
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 77340
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 40189
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1889
+    },
+    {
+      "month": "2011-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 75889
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 52392
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 72350
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 40009
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1902
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 74340
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 50001
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 70003
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 39589
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1481
+    },
+    {
+      "month": "2011-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 71000
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 46889
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 65801
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 38699
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1682
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 65700
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 48112
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 67889
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 44001
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1552
+    },
+    {
+      "month": "2012-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 67101
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 52809
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 73890
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 49801
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1802
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 73801
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 57009
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 78189
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 52004
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2012
+    },
+    {
+      "month": "2012-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 78000
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 56551
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 79304
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 50009
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1490
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 76881
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 56501
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 82003
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 51511
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2000
+    },
+    {
+      "month": "2012-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 80101
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 58501
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 83700
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 53989
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1896
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 84590
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 64201
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 91000
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 57589
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1924
+    },
+    {
+      "month": "2012-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 92010
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 62600
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 92050
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 58553
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2021
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 88990
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 58001
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 85216
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 57106
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1890
+    },
+    {
+      "month": "2012-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 86889
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 59003
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 83000
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 54522
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1912
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 85889
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 59004
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 85400
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 54502
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1712
+    },
+    {
+      "month": "2012-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 84389
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 59421
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 82289
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 55556
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1760
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 86999
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 68656
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 90501
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 55805
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1859
+    },
+    {
+      "month": "2012-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 92700
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 73501
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 94502
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 57001
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2081
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 95034
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 66889
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 88002
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 59334
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2013
+    },
+    {
+      "month": "2012-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 93990
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 68000
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 80191
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 57334
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1801
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 87999
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 63000
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 88500
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 57809
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1852
+    },
+    {
+      "month": "2012-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 89990
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 69000
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 80001
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 56001
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1912
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 86889
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 71001
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 85801
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 57889
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1920
+    },
+    {
+      "month": "2012-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 87000
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 77201
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 92400
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 59111
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1959
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 92100
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 77291
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 93004
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 60235
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1689
+    },
+    {
+      "month": "2012-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 93990
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 78523
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 90200
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 63035
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1612
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 97000
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 81889
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 93501
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 62201
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1701
+    },
+    {
+      "month": "2012-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 95990
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 92100
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 96210
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 60000
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1933
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 96101
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 91010
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 95501
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 57051
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1781
+    },
+    {
+      "month": "2013-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 97889
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 87109
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 92901
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 54989
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1782
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 94890
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 78301
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 92667
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 53489
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1512
+    },
+    {
+      "month": "2013-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 91910
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 74689
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 58090
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 53900
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1895
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 65001
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 64209
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 73900
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 54111
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1909
+    },
+    {
+      "month": "2013-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 73301
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 61029
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 67010
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 56011
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1812
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 66989
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 62497
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 62000
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 58502
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1791
+    },
+    {
+      "month": "2013-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 62000
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 62999
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 61700
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 57051
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1700
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 62301
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 64839
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 67304
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 56889
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1663
+    },
+    {
+      "month": "2013-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 66701
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 67301
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 75000
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 57989
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1701
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 76000
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 69903
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 81751
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 59001
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1712
+    },
+    {
+      "month": "2013-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 83001
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 73100
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 77110
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 61011
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1610
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 77000
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 73989
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 76389
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 65036
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1712
+    },
+    {
+      "month": "2013-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 76802
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 75556
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 77600
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 68251
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1792
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 77989
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 76223
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 76607
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 71001
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1722
+    },
+    {
+      "month": "2013-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 79223
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 77304
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 77100
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 73999
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1660
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 80000
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 83751
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 86239
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 76001
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1703
+    },
+    {
+      "month": "2013-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 87001
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 85000
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 93500
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 76310
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1961
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 93889
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 76889
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 87910
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 68002
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1804
+    },
+    {
+      "month": "2013-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 92289
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 72609
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 84578
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 55503
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1710
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 89001
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 74991
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 79300
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 55002
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1712
+    },
+    {
+      "month": "2013-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 83000
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 73160
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 73010
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 51112
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1782
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 76901
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 74002
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 75700
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 48001
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 1812
+    },
+    {
+      "month": "2013-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 77501
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 72369
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 78700
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 48889
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 1989
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 79000
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 72290
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 79000
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 50001
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2704
+    },
+    {
+      "month": "2014-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 78810
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 71564
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 75300
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 51002
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 3051
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 77003
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 77201
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 78604
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 52890
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 3501
+    },
+    {
+      "month": "2014-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 79000
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 76999
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 80710
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 56302
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4001
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 82000
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 78602
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 82900
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 53891
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4289
+    },
+    {
+      "month": "2014-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 84001
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 77400
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 84504
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 49503
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4489
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 84100
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 71335
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 75010
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 32890
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4502
+    },
+    {
+      "month": "2014-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 73810
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 60002
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 70002
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 36301
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4001
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 65501
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 65689
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 68103
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 40889
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4003
+    },
+    {
+      "month": "2014-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 67290
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 63190
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 67304
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 43001
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4089
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 67334
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 61899
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 65700
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 42001
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 3890
+    },
+    {
+      "month": "2014-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 65301
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 61990
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 64889
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 43390
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4001
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 63001
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 62890
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 65001
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 52010
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4252
+    },
+    {
+      "month": "2014-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 65002
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 64600
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 68689
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 54009
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4353
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 69001
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 65710
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 72990
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 52390
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4354
+    },
+    {
+      "month": "2014-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 72810
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 64841
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 73010
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 49901
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4453
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 74403
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 62000
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 71990
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 49889
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4504
+    },
+    {
+      "month": "2014-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 74801
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 63880
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 72180
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 57389
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4800
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 72003
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 63990
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 72002
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 61000
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4412
+    },
+    {
+      "month": "2014-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 72201
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 64900
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 70890
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 63701
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4290
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 71300
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 67889
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 72890
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 65001
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4189
+    },
+    {
+      "month": "2014-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 73900
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 67089
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 74389
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 60001
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4210
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 76904
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 65889
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 74000
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 52100
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4312
+    },
+    {
+      "month": "2014-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 73990
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 66010
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 75289
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 55011
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4403
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 75200
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 65001
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 76889
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 55012
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4889
+    },
+    {
+      "month": "2015-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 76790
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 62002
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 70890
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 52101
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 5504
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 71921
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 57199
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 66751
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 53202
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 5800
+    },
+    {
+      "month": "2015-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 67901
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 61410
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 68668
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 56501
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 5501
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 70500
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 64700
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 71889
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 59999
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 5610
+    },
+    {
+      "month": "2015-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 72100
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 67749
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 76612
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 64001
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6312
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 78000
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 67601
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 78001
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 53001
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6801
+    },
+    {
+      "month": "2015-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 79500
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 68589
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 77600
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 50098
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6512
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 78004
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 66590
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 75002
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 52001
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6501
+    },
+    {
+      "month": "2015-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 78001
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 66000
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 75000
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 50900
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6509
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 75801
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 61000
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 71509
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 50502
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6401
+    },
+    {
+      "month": "2015-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 74501
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 58700
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 65501
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 50001
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6508
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 69001
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 55889
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 58109
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 50002
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6312
+    },
+    {
+      "month": "2015-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 60101
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 56209
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 60789
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 49302
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6201
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 57885
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 57498
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 62140
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 46501
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6112
+    },
+    {
+      "month": "2015-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 61001
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 57089
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 62101
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 46801
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6512
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 61010
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 55399
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 60001
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 45289
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6158
+    },
+    {
+      "month": "2015-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 61300
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 56001
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 58190
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 44890
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6201
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 58801
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 57301
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 59889
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 42303
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6302
+    },
+    {
+      "month": "2015-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 60000
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 56001
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 57501
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 43809
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 5912
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 60689
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 59200
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 61103
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 45890
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6502
+    },
+    {
+      "month": "2015-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 62019
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 56989
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 60001
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 48101
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6501
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 60003
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 54301
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 55001
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 46001
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6600
+    },
+    {
+      "month": "2015-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 57501
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 45002
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 54920
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 42036
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6889
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 55089
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 51301
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 50089
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 46502
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6512
+    },
+    {
+      "month": "2016-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 51000
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 46651
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 38610
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 45036
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6503
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 44001
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 43000
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 46970
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 45001
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6353
+    },
+    {
+      "month": "2016-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 45009
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 45000
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 47604
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 48890
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6503
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 48002
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 45504
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 46502
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 46502
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6589
+    },
+    {
+      "month": "2016-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 46667
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 46009
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 47000
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 44213
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6503
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 47510
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 47300
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 49602
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 43002
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6501
+    },
+    {
+      "month": "2016-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 49501
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 47889
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 51010
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 42302
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6302
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 49000
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 47020
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 49156
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 43002
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6303
+    },
+    {
+      "month": "2016-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 49700
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 53694
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 56000
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 46434
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6302
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 55100
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 55200
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 57010
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 48002
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6303
+    },
+    {
+      "month": "2016-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 57390
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 52301
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 56089
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 47889
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6012
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 56002
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 53000
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 57508
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 49890
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6302
+    },
+    {
+      "month": "2016-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 57501
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 52503
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 57903
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 48302
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6206
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 58201
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 53334
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 56500
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 48001
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6352
+    },
+    {
+      "month": "2016-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 56956
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 51506
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 57002
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 49801
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6452
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 56889
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 50000
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 55501
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 49890
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6501
+    },
+    {
+      "month": "2016-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 55201
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 51507
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 53001
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 48702
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6353
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 54200
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 50991
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 56410
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 45589
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6354
+    },
+    {
+      "month": "2016-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 56340
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 52668
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 56206
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 48001
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6311
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 56000
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 50951
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 53001
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 49002
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6212
+    },
+    {
+      "month": "2016-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 54901
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 48000
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 46229
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 51209
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6113
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 50010
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 49751
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 51109
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 49500
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6101
+    },
+    {
+      "month": "2016-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 50389
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 50101
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 53106
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 46302
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6053
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 53001
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 50889
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 52807
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 47001
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6052
+    },
+    {
+      "month": "2017-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 52600
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 48401
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 48209
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 48901
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6412
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 48556
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 49430
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 50621
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 49810
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6801
+    },
+    {
+      "month": "2017-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 51000
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 50789
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 53300
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 49002
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 7483
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 53001
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 51765
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 54000
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 47036
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 8081
+    },
+    {
+      "month": "2017-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 54501
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 52000
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 54405
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 45906
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 7589
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 54556
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 51600
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 54406
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 26501
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6712
+    },
+    {
+      "month": "2017-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 54616
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 51106
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 55414
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 26029
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6301
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 55000
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 46489
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 53001
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 30600
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6101
+    },
+    {
+      "month": "2017-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 52000
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 45201
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 50110
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 38501
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6101
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 50526
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 42801
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 47501
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 36879
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6001
+    },
+    {
+      "month": "2017-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 48001
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 42801
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 49802
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 40212
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6001
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 49899
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 44002
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 50001
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 42809
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 5851
+    },
+    {
+      "month": "2017-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 50101
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 46778
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 53711
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 42801
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 5701
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 52751
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 42900
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 51000
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 42004
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 3512
+    },
+    {
+      "month": "2017-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 50000
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 36001
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 49000
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 43002
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 5402
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 48005
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 42902
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 49189
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 46890
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 5501
+    },
+    {
+      "month": "2017-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 49012
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 41761
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 48109
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 48902
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 5010
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 49000
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 41617
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 49996
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 51890
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4903
+    },
+    {
+      "month": "2017-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 52000
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 47112
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 57414
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 58036
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 5502
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 57000
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 46791
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 57390
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 57701
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 5992
+    },
+    {
+      "month": "2017-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 57501
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 42339
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 53711
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 42000
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6552
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 54334
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 38200
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 47002
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 45112
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 7501
+    },
+    {
+      "month": "2017-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 48011
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 41400
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 45289
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 40101
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 7701
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 47390
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 36890
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 42661
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 39000
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 8001
+    },
+    {
+      "month": "2018-01",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 44000
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 40000
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 42322
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 38303
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 8451
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 39903
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 36810
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 39000
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 36859
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 7667
+    },
+    {
+      "month": "2018-02",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 38801
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 38830
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 39001
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 36003
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 8009
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 39000
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 38000
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 37010
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 35001
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 7602
+    },
+    {
+      "month": "2018-03",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 38000
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 37000
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 37605
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 34001
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 7114
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 38039
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 38510
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 37330
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 34202
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 7115
+    },
+    {
+      "month": "2018-04",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 38389
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 38941
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 38501
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 33190
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 7204
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 38600
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 38001
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 37989
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 29901
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 7115
+    },
+    {
+      "month": "2018-05",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 38700
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 36426
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 36000
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 29902
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 7001
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 37000
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 34110
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 33900
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 32001
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6889
+    },
+    {
+      "month": "2018-06",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 34400
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 25000
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 31000
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 31092
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 6514
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 31001
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 32699
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 32551
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 30889
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 6189
+    },
+    {
+      "month": "2018-07",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 32809
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 33798
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 34381
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 30389
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 5514
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 33420
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 31997
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 32429
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 29902
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4889
+    },
+    {
+      "month": "2018-08",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 32311
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 30209
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 32001
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 27001
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4390
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 31801
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 28000
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 31307
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 27104
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 4214
+    },
+    {
+      "month": "2018-09",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 32000
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 28457
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 31301
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 28501
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 4109
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 32552
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 25556
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 31302
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 29501
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 3951
+    },
+    {
+      "month": "2018-10",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 32900
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 28199
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 32302
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 29501
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 2509
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 32000
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 25000
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 31101
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 27509
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 2989
+    },
+    {
+      "month": "2018-11",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 30959
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category A",
+      "premium": 23568
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category B",
+      "premium": 31001
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category C",
+      "premium": 27009
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category D",
+      "premium": 3399
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 1,
+      "vehicle_class": "Category E",
+      "premium": 30851
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category A",
+      "premium": 25501
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category B",
+      "premium": 31001
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category C",
+      "premium": 27001
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category D",
+      "premium": 3789
+    },
+    {
+      "month": "2018-12",
+      "bidding_no": 2,
+      "vehicle_class": "Category E",
+      "premium": 31809
+    }
+  ]

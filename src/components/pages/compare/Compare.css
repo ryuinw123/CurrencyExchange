@@ -1,0 +1,159 @@
+.compare-image-wrapper {
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 47.76%, #FFFFFF 64.5%), url('../../../data/Background/money.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.compare-box {
+    position: absolute;
+    width: 480px;
+    height: 200px;
+    left:20%;
+    top: 24%;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(25px);
+}
+
+.compare-box p{
+    padding-left : 50px;
+}
+
+
+.compare-box h1{
+    margin-left : 5px;
+}
+
+.compare-text {
+    padding: 65px 0px 0px 50px;
+    display:flex;
+}
+.icon-wrapper {
+    font-size: 2.4rem;
+}
+
+.top-left {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-left : solid 2px #5D5D5D;
+    border-top : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    top : 15px;
+    left : 15px
+}
+
+.top-right {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-right : solid 2px #5D5D5D;
+    border-top : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    top : 15px;
+    right : 15px
+}
+.bottom-left {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-left : solid 2px #5D5D5D;
+    border-bottom : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    bottom : 15px;
+    left : 15px
+}
+.bottom-right {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-right : solid 2px #5D5D5D;
+    border-bottom : solid 2px #5D5D5D;
+    border-color: #5D5D5D;
+    bottom : 15px;
+    right : 15px
+}
+
+.compare-body {
+    width: 50.78vw;
+    margin: 0 auto;
+}
+
+.compare-currency {
+    height: 94px;
+    display: flex;
+    border-radius: 8px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border: 1px solid #BDBDBD;
+}
+.currency-color-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+.currency-color {
+    display: flex;
+}
+
+.currency-color p {
+    padding-left: 10px;
+}
+
+.circle-color {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+.compare-graph {
+    margin : 11px 0px;
+    height: 540px;
+    border: 1px solid #A0A0A0;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns : 9fr 1fr;
+    grid-template-areas: 
+            "linechart button"
+    ;
+
+}
+.compare-graph-wrapper {
+    grid-area : linechart;
+    overflow : hidden;
+
+}
+#multi-graph {
+    width: 100%;
+    height: 100%;
+}
+
+.compare-graph {
+    position: relative;
+}
+
+.compare-button-wrapper {
+    grid-area: button;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.compare-button{
+    width: 48px;
+    height: 48px;
+    border: 1px solid #5D5D5D;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.expand {
+    height: 30vh;
+}

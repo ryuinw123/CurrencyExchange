@@ -1,0 +1,150 @@
+.choice-image-wrapper {
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 47.76%, #FFFFFF 64.5%), url('../../../data/Background/money.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.choice-box {
+    position: absolute;
+    width: 480px;
+    height: 200px;
+    left:20%;
+    top: 24%;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(25px);
+}
+
+.choice-box h1{
+    margin-left : 5px;
+}
+
+.choice-text {
+    padding: 65px 0px 0px 50px;
+    display:flex;
+}
+.icon-wrapper {
+    font-size: 2.4rem;
+}
+
+.choice-box p {
+    padding-left : 50px;
+}
+
+.choice-wrapper {
+    width: 50.78vw;
+    margin : 0 auto;
+    border: 1px solid #BDBDBD;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    padding-top : 20px;
+}
+.choice-wrapper-inside {
+    width: 35vw;
+    margin: 0 auto;
+
+}
+.choice-decision {
+    display: flex;
+    justify-content: space-between;
+}
+.choice-decision .choice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 60px;
+    left: 630px;
+    top: 740px;
+    border: 1.5px solid #616161;
+    border-radius: 50px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    cursor: pointer;
+}
+
+.choice-border {
+    width: 30px;
+    height: 0px;
+    border: 2px solid #A0A0A0;
+    transform: rotate(90deg) translate(28px,0px);
+}
+
+.choice-currency {
+    display: flex;
+    gap : 50px;
+    justify-content:  space-between;
+    align-items: center;
+    margin : 30px 0px;
+}
+
+.choice-currency-dropper {
+    width: 240px;
+    height: 60px;
+    border: 2px solid #A0A0A0;
+    border-radius: 50px;
+}
+
+.choice-method-dropper {
+    width: 240px;
+    height: 60px;
+    border: 2px solid #A0A0A0;
+    border-radius: 50px;
+}
+
+.choice-amount {
+    display: flex;
+    gap : 50px;
+    justify-content:  space-between;
+    align-items: center;
+    margin : 20px 0px;
+}
+
+.amount-input {
+    border: 1px solid #9E9E9E;
+    border-radius: 8px;
+    width: 504px;
+    height: 40px;
+    padding: 20px;
+}
+.choice-button-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin : 20px 0px;
+}
+.choice-button {
+    width: 180px;
+    height: 60px;
+    background: #00C853;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.4);
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+}
+
+.banktable-wrapper {
+    padding : 10px;
+}
+
+.bestbank-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size : 1.8rem;
+}
+.extend {
+    height: 30vh;
+}
+.no-search {
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon-choice-search {
+    font-size: 10rem;
+}

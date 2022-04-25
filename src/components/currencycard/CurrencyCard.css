@@ -7,6 +7,7 @@
     border-radius: 8px;
     flex: 15%;
     max-width: 15%;
+    color: black;
 }
 
 .upper-card-wrapper {
@@ -102,14 +103,14 @@
     color: #000000;
 }
 
-@media (max-width: 1530px) {
+@media (max-width: 1570px) {
     .currency-card {
       flex: 20%;
       max-width: 20%;
     }
   }
 
-@media (max-width: 1150px) {
+@media (max-width: 1170px) {
     .currency-card {
       flex: 29%;
       max-width: 29%;

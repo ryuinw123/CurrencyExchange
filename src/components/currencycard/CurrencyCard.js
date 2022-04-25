@@ -3,8 +3,10 @@ import image from "../../data/Flag/Sweden.png"
 import { IoTriangleSharp } from 'react-icons/io5';
 import { VscTriangleLeft,VscTriangleRight } from 'react-icons/vsc';
 import "./CurrencyCard.css"
+import { Link } from 'react-router-dom';
 
 const CurrencyCard = ({props}) => {
+    
     function GenerateIcon() {
         if (props.status === "up")
           return <div style={{ color: "#00FF00" }}>
@@ -51,7 +53,11 @@ const CurrencyCard = ({props}) => {
       }
 
   return (
-    <div className = "currency-card">
+    <Link 
+      to={{
+        pathname : `detail/${props.currency}`,
+        state : { message :  "HI" }
+        }}  className = "currency-card">
         <div className="upper-card-wrapper">
             <div className="img-wrapper">
                 <img src={image} alt="" className = "flag-img"/>
@@ -70,7 +76,7 @@ const CurrencyCard = ({props}) => {
         <div className="down-card-wrapper">
             <div className = "pricebox">
                 <h3>Open</h3>
-                <p>{props.Open}</p>
+                <p>{props.open}</p>
             </div>
             <div className = "pricebox">
                 <h3>High</h3>
@@ -81,7 +87,7 @@ const CurrencyCard = ({props}) => {
                 <p style = {{color : "#FF0000" }}>{props.low}</p>
             </div>
         </div>
-    </div>
+    </Link>
   )
 }
 

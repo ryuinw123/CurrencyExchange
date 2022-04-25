@@ -116,6 +116,50 @@
 }
 
 
+#graph {
+    width: 100%;
+    height: 100%;
+    fill: green; 
+    font: 15px sans-serif; 
+    text-anchor: center; 
+}
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2px;
+  }
+  
+  .grid line {
+    stroke: lightgrey;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+  }
+  
+  .grid path {
+    stroke-width: 0;
+  }
+
+  .overlay {
+    fill: none;
+    pointer-events: all;
+}
+  .focus circle {
+    fill: steelblue;
+}
+
+.focus text {
+    font-size: 14px;
+}
+
+.tooltip {
+    fill: white;
+    stroke: #000;
+}
+
+.tooltip-date, .tooltip-likes {
+    font-weight: bold;
+}
 
 .price-box {
     margin : 11px 0;
@@ -180,123 +224,37 @@
     border: 1px solid #A0A0A0;
     box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
     border-radius: 8px;
+    display: grid;
+    grid-template-columns : 9fr 1fr;
+    grid-template-areas: 
+            "linechart button"
+    ;
+
 }
 
-.exchange-box {
-    margin-top: 13px;
-    height: 500px;
-    border: 1px solid #A0A0A0;
-    box-sizing: border-box;
-    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 8px;
-    display: grid;
-    grid-template-columns : 9.16fr 22.24fr 17.81fr;
-    grid-template-rows: repeat(1,80px);
-    grid-template-areas: 
-            "blank buy sell"
-            "ka-img ka ka"
-            "sc-img sc sc"
-            "ba-img ba ba"
-            "kt-img kt kt"
-            "ks-img ks ks"
-    ;
+.detail-graph-wrapper {
+    grid-area : linechart;
 }
-.detail {
-    position :relative;
-    flex: 1;
+
+.detail-button-wrapper {
+    grid-area: button;
     padding: 10px;
     display: flex;
+    flex-direction: column;
     align-items: center;
+    gap: 10px;
 }
-
-.border-detail {
-    position: absolute;
-    right :0;
-    height: 30px;
-    border-right: 1px solid;
-}
-.buy{
-    margin: auto 0;
-    grid-area: buy;
-}
-.buy-color{
-    background: #FFD600;
-}
-.exchange-wrapper {
+.detail-button{
+    width: 48px;
+    height: 48px;
+    border: 1px solid #5D5D5D;
+    border-radius: 50px;
     display: flex;
-    border-radius: 12px;
-}
-
-
-.exchange-wrapper p {
-    flex : 1;
-    text-align: center;
-    font-weight: 600;
-    font-size: 12px;
-    line-height: 15px;
-
-}
-.sell {
-    margin: auto 0;
-    grid-area : sell;
-}
-
-.sell-color {
-    background: #005BBC;
-    color: #ECECEC;
-}
-.ka-img {
-    border: solid 1px;
-    grid-area: ka-img;
-}
-.ka {
-    grid-area:ka;
-}
-.sc-img {
-    border : solid 1px;
-    grid-area: sc-img;
-}
-.sc {
-    border: solid 1px;
-    grid-area: sc;
-}
-.ba-img {
-    border: solid 1px;
-    grid-area: ba-img;
-}
-.ba {
-    border: solid 1px;
-    grid-area: ba;
-}
-.kt-img {
-    border: solid 1px;
-    grid-area: kt-img;
-}
-.kt {
-    border: solid 1px;
-    grid-area: kt;
-}
-.ks-img {
-    border: solid 1px;
-    grid-area: ks-img;
-}
-.ks {
-    border: solid 1px;
-    grid-area: ks;
-}
-
-.country-exchange-rate {
-    height: 100%;
-    display: flex;
-    margin: auto 0;
+    justify-content: center;
     align-items: center;
-}
-.country-exchange-rate p {
-    flex:1;
-    text-align: right;
+    cursor: pointer;
 }
 
-.background-cream {
-    background: #ECECEC;
+.country-exchange-rate p{
+    font-size: 10;
 }
-

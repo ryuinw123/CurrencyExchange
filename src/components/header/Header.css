@@ -100,11 +100,11 @@
 }
 
 .currency {
-    height: 60px;
+    height: 65px;
     width: 60%;
     margin: auto;
     display: flex;
-    overflow-x:hidden;
+    overflow-x:scroll;
 }
 .currency-wrapper {
     background-color: rgba(255, 255, 255, 0.75);
@@ -115,3 +115,21 @@
 .Moon {
     color : #5D5D5D;
 }
+
+::-webkit-scrollbar {
+    width: 20px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #d6dee1;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #a8bbbf;
+  }

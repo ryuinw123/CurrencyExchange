@@ -1,9 +1,16 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import { BiDollarCircle } from 'react-icons/bi'
 import CurrencyCard from '../../currencycard/CurrencyCard'
-import Currency from "../../../data/Currency/mock_currency_page.json"
 import "./Currencypage.css"
+import axios from 'axios';
 const Currencypage = () => {
+  const [currency,setCurrency] = useState()
+    useEffect(() => {
+      axios.get(`http://185.78.166.45:8000/currency/`)
+      .then(res => {
+        setCurrency(res.data);
+      })
+    },[currency])
 
   return (
     <>
@@ -22,9 +29,9 @@ const Currencypage = () => {
             </div>
       </div>
       <div className="currency-list">
-      {Currency.map((value, key) => {
+      {currency ? currency.map((value, key) => {
                         return <CurrencyCard props = {value} />
-                    })}
+                    }) : <h1 className='loading . . .'>Loading</h1>}
       </div>
     </>
   )

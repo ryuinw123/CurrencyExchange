@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import {AiOutlineSearch , AiOutlineClose}  from 'react-icons/ai';
+import { Link } from 'react-router-dom';
 import "./Searchbar.css"
 
 const Searchbar = ({placeholder , data}) => {
@@ -34,9 +35,9 @@ const Searchbar = ({placeholder , data}) => {
         {filteredData.length !== 0 && (
         <div className = "dataResult">
             {filteredData.map((value,key) => {
-                return <a className = "dataItem">
+                return <Link to = "/currency/detail/US" onClick={clearInput} className = "dataItem">
                     <p>{value.currency}</p>
-                    </a>
+                    </Link>
             })}
         </div>
         )}

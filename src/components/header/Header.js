@@ -1,14 +1,23 @@
-import React, { useContext } from 'react'
+import React, { useContext, useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Searchbar from '../searchbar/Searchbar';
 import "./Header.css"
 import { MdAccountBalance, MdOutlineDarkMode } from 'react-icons/md';
 import Currency from "../../data/Currency/mock_data.json"
 import { ThemeContext } from '../../context';
-import data from '../../data/Currency/mock_currency.json'
 import HeaderCard from '../headercard/HeaderCard.js';
+import axios from 'axios';
 
 const Header = () => {
+    const [cardData,setcardData] = useState();
+    useEffect(() => {
+        axios.get(`http://185.78.166.45:8000/header/`)
+      .then(res => {
+          console.log(res.data)
+        setcardData(res.data);
+      })
+
+    },[])
     const theme = useContext(ThemeContext)
     const handleClick = () => {
         theme.dispatch({ type: "TOGGLE" })
@@ -27,13 +36,23 @@ const Header = () => {
                     </div>
                     <div className="navbar-container-right">
                         <ul className="nav-menu" >
+                        <li className="nav-item">
+                                <Link to="/compare" className="nav-links">
+                                    Compare
+                                </Link>
+                            </li>
+                        <li className="nav-item">
+                                <Link to="/choice" className="nav-links">
+                                    Best Choice
+                                </Link>
+                            </li>
                             <li className="nav-item">
                                 <Link to="/currency" className="nav-links">
                                     Currency
                                 </Link>
                             </li>
                             <li className="nav-item">
-                                <Link to="/" className="nav-links">
+                                <Link to="/about" className="nav-links">
                                     About
                                 </Link>
                             </li>
@@ -49,13 +68,13 @@ const Header = () => {
             </div>
             <div className="currency-wrapper">
                 <div className="currency">
-                    {data.map((value, key) => {
-                        return <HeaderCard currency= {value.currency} country={require("../../data/Flag/" + value.country)} status={value.status} price={value.price} change={value.change} percentage={value.percentage} />
+                    {cardData && cardData.map((value, key) => {
+                        return <HeaderCard currency= {value.currency} country={value.country} status={value.status} price={value.price} change={value.change} percentage={value.percentage} />
                     })}
                 </div>
             </div>
         </div>
     )
 }
-
+//return <HeaderCard currency= {value.currency} country={require("../../data/Flag/" + value.country)} status={value.status} price={value.price} change={value.change} percentage={value.percentage} />
 export default Header

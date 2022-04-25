@@ -79,3 +79,7 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.loading {
+    text-align: center;
+}
