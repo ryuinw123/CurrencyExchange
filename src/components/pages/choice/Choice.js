@@ -25,6 +25,7 @@ const Choice = () => {
             amount: +input_ref.current.value
         })
             .then(res => {
+                console.log(res.data)
                 setCalculate(res.data)
                 setRender(true)
             })
@@ -79,7 +80,7 @@ const Choice = () => {
                     { render ? <Bestbank props = {calculate.bestbank}/> : <div className = "no-search"><MdOutlineSearchOff className = "icon-choice-search"/> <p>Please complete the selections to calculate the best bank.</p></div>}
                 </div>
                 <div className="banktable-wrapper">
-
+                { render ? <BankTable props = {calculate.allbank} /> : <></>}
                 </div>
             </div>
             <div className="extend"></div>

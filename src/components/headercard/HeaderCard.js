@@ -8,7 +8,7 @@ const HeaderCard = ({ currency, country, status, price, change, percentage }) =>
     if (props.status === "up")
       return <div style={{ color: "#00FF00" }}>
         <div className="card-wrapper-top" style={{ color: "#00FF00" }}>
-          <div className="card-icon"><BsFillTriangleFill /></div>
+          <div className="card-icon" style = {{transform : "translate(0px,-1px)"}}><BsFillTriangleFill /></div>
           <p >{props.price}</p>
         </div>
         <div className="card-wrapper-bottom">
@@ -18,7 +18,7 @@ const HeaderCard = ({ currency, country, status, price, change, percentage }) =>
     if (props.status === "down")
       return <div style={{ color: "#FF0000" }}>
         <div className="card-wrapper-top">
-          <div className="card-icon" style={{ transform: "rotate(180deg)" }}><BsFillTriangleFill /></div>
+          <div className="card-icon" style={{ transform: "rotate(180deg) translate(0px,7px)" }}><BsFillTriangleFill /></div>
           <p >{props.price}</p>
         </div>
         <div className="card-wrapper-bottom">
