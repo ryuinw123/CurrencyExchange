@@ -130,6 +130,38 @@
     padding : 3px;
 }
 
-input[type=text] {
-    color: black;
-  }
+.banktable-icon-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+}
+
+.banktable-bankbuy {
+    padding-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.banktable-banksell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.background-red {
+    background-color: #EF5350;
+}
+
+.background-blue {
+    background-color: #42A5F5;
+}
+
+.banktable-circle{
+    width: 16.48px;
+    height: 16.48px;
+    border-radius: 50px;
+}

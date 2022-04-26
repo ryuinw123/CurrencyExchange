@@ -9,8 +9,8 @@ const Bestbank = ({props}) => {
         <div className="bestbank-wrapper">
             <div className="bestbank-img-wrapper">
                 <img src={require(`../../data/Bank/${props.bank_img}.png`)} alt="" />
-                <h3>{props.bank_name}</h3>
             </div>
+            <div className="bestbank-header"><h3>{props.bank_name}</h3></div>
             <div className="bestbank-detail-wrapper">
                 <div className="bestbank-detail">
                     <h1>Selected type({"Sell"}):</h1>

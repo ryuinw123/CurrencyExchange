@@ -12,6 +12,7 @@ const BankTable = ({ props }) => {
     const darkMode = theme.state.darkMode
     console.log(props)
     return (
+        <>
         <div className="exchange-box" style = {{background : darkMode && "#424242"}}>
             <div className="buy">
                 <div className="exchange-wrapper buy-color" style = {{color : darkMode && "black"}}>
@@ -110,7 +111,19 @@ const BankTable = ({ props }) => {
                     <p>{props[4].bank_sell_t_t}</p>
                 </div>
             </div>
+            <div className="banktable-icon-wrapper">
+            <div className="banktable-bankbuy">
+                <div className="banktable-circle background-red"></div>
+                <p>BANK BUY</p>
+            </div>
+            <div className="banktable-banksell">
+                <div className="banktable-circle background-blue"></div>
+                <p>BANK SELL</p>
+            </div>
         </div>
+            
+        </div>
+        </>
     )
 }
 

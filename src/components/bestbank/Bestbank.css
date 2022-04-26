@@ -10,10 +10,6 @@
 
 }
 
-.bestbank-img-wrapper h3 {
-    padding-top: 20px;
-
-}
 
 
 .bestbank-img-wrapper img {
@@ -29,4 +25,23 @@
     display: flex;
     margin : 20px 0px;
     justify-content: space-between;
+}
+
+
+.bestbank-header h3{
+    font-weight: 500;
+font-size: 28px;
+line-height: 34px;
+}
+
+.bestbank-detail h1 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.bestbank-detail h3 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
 }

@@ -13,9 +13,8 @@ const Currencypage = () => {
       axios.get(`http://185.78.166.45:8000/currency/`)
       .then(res => {
         setCurrency(res.data);
-        console.log(res.data)
       })
-    },[currency])
+    },[])
 
   return (
     <>
