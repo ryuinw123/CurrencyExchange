@@ -302,7 +302,7 @@ const Detailpage = () => {
                 }
                 focus.attr("transform", `translate(${x(d.date)},${y(d.price)})`);
                 focus.select(".tooltip-date").text(dateFormatter(d.date));
-                focus.select(".tooltip-likes").text(formatValue(d.price));
+                focus.select(".tooltip-likes").text(formatValue(d.price)+"฿");
             }
 
             function updateChart(filterdata) {

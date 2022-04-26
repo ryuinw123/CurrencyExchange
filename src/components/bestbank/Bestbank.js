@@ -25,7 +25,7 @@ const Bestbank = ({props}) => {
                     <h3>{props.amout}</h3>
                 </div>
                 <div className="bestbank-detail">
-                    <h1>Selling price / 1 {"USD50"}:</h1>
+                    <h1>Selling price / 1 {props.currency}:</h1>
                     <h3>{props.single_price}</h3>
                 </div>
                 <div className="bestbank-detail">

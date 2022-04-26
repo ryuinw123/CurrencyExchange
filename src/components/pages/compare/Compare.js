@@ -178,7 +178,7 @@ const Compare = () => {
       .attr('x', 50)
       .attr("y", 0)
       .attr("fill", "#A9A9A9")
-      .text("Bath")
+      .text("Baht")
 
 
 
@@ -472,7 +472,7 @@ const Compare = () => {
           var idx = bisect(d.values, xDate)
           //console.log(d.key.substring(0, 3) + " " + d.key.slice(-1) + ": $" + d.values[idx].premium.toString())
           console.log(d.key)
-          return "Currency" + " " + d.key.slice(-1) + ": $" + d.values[idx].price.toString()
+          return "Currency" + " " + d.key.slice(-1) + ": ฿" + d.values[idx].price.toString()
         })
     }
 
