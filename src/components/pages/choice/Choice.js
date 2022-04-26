@@ -95,12 +95,12 @@ const Choice = () => {
                     </div>
                     <div className="choice-currency">
                         <p>Currency</p>
-                        {currency ? <><BestSearch ref = {currency_ref} props = {currency_data}/><BestSearch ref = {type_ref} props = {currency}/></> : <p>Wait for Loading</p>}
+                        <BestSearch ref = {currency_ref} props = {currency_data}/><BestSearch ref = {type_ref} props = {currency}/>
                     
                     </div>
                     <div className="choice-amount">
                         <p>AMOUT</p>
-                        <input ref = {input_ref} style = {{background : darkMode && "#424242"}} type="text" placeholder='Enter desired amount' className="amount-input" name="amount" />
+                        <input ref = {input_ref} style = {{background : darkMode && "#424242" , "--input-color" : darkMode && "white"}} type="text" placeholder='Enter desired amount' className="amount-input" name="amount" />
                     </div>
 
                     <div className="choice-button-wrapper">

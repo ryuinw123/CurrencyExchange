@@ -129,3 +129,7 @@
 .ks-img {
     padding : 3px;
 }
+
+input[type=text] {
+    color: black;
+  }

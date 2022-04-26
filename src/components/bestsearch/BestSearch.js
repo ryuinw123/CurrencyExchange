@@ -1,14 +1,13 @@
 import React, { forwardRef, useContext, useEffect, useState } from 'react'
 import {  AiOutlineClose } from 'react-icons/ai';
 import { MdOutlineExpandMore } from 'react-icons/md'
-import data from '../../data/Currency/mock_currency_all.json'
 import "./BestSearch.css"
 import { ThemeContext } from '../../context';
 
 const BestSearch = forwardRef((props,ref) => {
     const theme = useContext(ThemeContext)
     const darkMode = theme.state.darkMode
-    const [filteredData, setFilteredData] = useState(data);
+    const [filteredData, setFilteredData] = useState(props.props);
     const [wordEntered, setWordEntered] = useState("");
     const [searchBar,setSearchBar] = useState(false)
 

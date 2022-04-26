@@ -20,7 +20,7 @@ const Compare = () => {
   const [dataMc, setDataMc] = useState()
   const [dataMd, setDataMd] = useState()
   const [dataMe, setDataMe] = useState()
-  const [startDate,setStartDate] = useState(1)
+  const [startDate,setStartDate] = useState(12)
   useEffect(() => {
     axios.post(`http://185.78.166.45:8000/compare/`, {
       category: "A",
@@ -91,7 +91,13 @@ const Compare = () => {
       .domain(category)
       .range(["#E53935", "#8E24AA", "#1E88E5", "#43A047", "#FFB300"])
 
-    var res = data.map((d, i) => {
+      var mdata = data.filter((a) => {
+        let date = new Date(a.date)
+        let startdate = addDate(new Date(),-12,"months");
+        return (date >= startdate)
+      })
+
+    var res = mdata.map((d, i) => {
       return {
         date: parseDate(d.date),
         currency_class: d.currency_class,
@@ -436,7 +442,7 @@ const Compare = () => {
         var xDate = xScale.invert(mouse[0])
         var bisect = d3.bisector(function (d) { return d.date; }).left
         var idx = bisect(d.values, xDate)
-        sortingObj.push({ key: d.values[idx].currency_class, price: d.values[idx].price, year: d.values[idx].date.getFullYear(), month: monthNames[d.values[idx].date.getMonth()], date: d.values[idx].date })
+        sortingObj.push({ key: d.values[idx].currency_class, price: d.values[idx].price, year: d.values[idx].date.getFullYear(), month: monthNames[d.values[idx].date.getMonth()], date: d.values[idx].date.getDate() })
       })
 
       sortingObj.sort(function (x, y) {
@@ -448,7 +454,7 @@ const Compare = () => {
       var res_nested1 = res_nested.slice().sort(function (a, b) {
         return sortingArr.indexOf(a.key) - sortingArr.indexOf(b.key) // rank vehicle category based on price of premium
       })
-      tooltip.html(sortingObj[0].month + "-" + sortingObj[0].year)
+      tooltip.html(sortingObj[0].date + "-" + sortingObj[0].month + "-" + sortingObj[0].year)
         .style('display', 'block')
         .style('left', `${mouse[0] + 80}px`)
         .style('top', `${mouse[1] + 30}px`)
@@ -465,7 +471,8 @@ const Compare = () => {
           var bisect = d3.bisector(function (d) { return d.date; }).left
           var idx = bisect(d.values, xDate)
           //console.log(d.key.substring(0, 3) + " " + d.key.slice(-1) + ": $" + d.values[idx].premium.toString())
-          return d.key.substring(0, 3) + " " + d.key.slice(-1) + ": $" + d.values[idx].price.toString()
+          console.log(d.key)
+          return "Currency" + " " + d.key.slice(-1) + ": $" + d.values[idx].price.toString()
         })
     }
 
@@ -621,35 +628,35 @@ const Compare = () => {
           <div className="currency-color-wrapper">
             <div className="currency-color">
               <div className="circle-color" style={{ background: "#E53935" }}></div>
-              <p>Currency No.1</p>
+              <p>Currency A</p>
             </div>
             <CompareSearch ref={input1} props={{ status: true }} />
           </div>
           <div className="currency-color-wrapper">
             <div className="currency-color">
               <div className="circle-color" style={{ background: "#8E24AA" }}></div>
-              <p>Currency No.2</p>
+              <p>Currency B</p>
             </div>
             <CompareSearch ref={input2} props={{ status: false }} />
           </div>
           <div className="currency-color-wrapper">
             <div className="currency-color">
               <div className="circle-color" style={{ background: "#1E88E5" }}></div>
-              <p>Currency No.3</p>
+              <p>Currency C</p>
             </div>
             <CompareSearch ref={input3} props={{ status: false }} />
           </div>
           <div className="currency-color-wrapper">
             <div className="currency-color">
               <div className="circle-color" style={{ background: "#43A047" }}></div>
-              <p>Currency No.4</p>
+              <p>Currency D</p>
             </div>
             <CompareSearch ref={input4} props={{ status: false }} />
           </div>
           <div className="currency-color-wrapper">
             <div className="currency-color">
               <div className="circle-color" style={{ background: "#FFB300" }}></div>
-              <p>Currency No.5</p>
+              <p>Currency E</p>
             </div>
             <CompareSearch ref={input5} props={{ status: false }} />
           </div>

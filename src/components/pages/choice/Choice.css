@@ -154,3 +154,6 @@
     text-align: center;
     color : rgb(107, 42, 42);
 }
+input[type=text] {
+    color: var(--input-color);
+  }
