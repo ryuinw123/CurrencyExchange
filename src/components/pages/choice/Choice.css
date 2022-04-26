@@ -148,3 +148,9 @@
 .icon-choice-search {
     font-size: 10rem;
 }
+
+.fail {
+    padding: 30px;
+    text-align: center;
+    color : rgb(107, 42, 42);
+}

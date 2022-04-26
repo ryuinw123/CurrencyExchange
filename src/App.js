@@ -6,7 +6,6 @@ import Home from './components/pages/homepage/Homepage'
 import './App.css';
 import Currencypage from './components/pages/currency/Currencypage';
 import Detailpage from './components/pages/detailpage/Detailpage';
-import datadetail from "./data/Currency/mock_detail_page.json"
 import Aboutpage from './components/pages/about/Aboutpage';
 import Linechart from './components/linechart/Linechart';
 import Choice from './components/pages/choice/Choice';
@@ -16,14 +15,14 @@ function App() {
   const theme = useContext(ThemeContext);
   const darkMode = theme.state.darkMode;
   return (
-    <div className="App" style={{ backgroundColor: darkMode ? "#222" : "white", color: darkMode && "white" }}>
+    <div className="App" style={{ backgroundColor: darkMode ? "#121212" : "white", color: darkMode && "white" }}>
       <Router>
       <Header />
         <Switch>
           <Route path='/' exact element = {<Home />} />
           <Route path = '/currency' element = {<Currencypage />} />
           <Route path = '/about' element = {<Aboutpage />} />
-          <Route path = '/currency/detail/:id' element = {<Detailpage props = {datadetail[0]}/>}/>
+          <Route path = '/currency/detail/:id' element = {<Detailpage />}/>
           <Route path = '/mock' element = {<Linechart />} />
           <Route path = '/choice' element = {<Choice />} />
           <Route path = '/compare' element = {<Compare />} />

@@ -1,14 +1,15 @@
-import { BsFillTriangleFill } from 'react-icons/bs'
+import { IoTriangleSharp } from 'react-icons/io5'
 import { VscTriangleLeft, VscTriangleRight } from 'react-icons/vsc'
 import React from 'react'
 import "./HeaderCard.css"
 
 const HeaderCard = ({ currency, country, status, price, change, percentage }) => {
+  
   function GenerateIcon(props) {
     if (props.status === "up")
       return <div style={{ color: "#00FF00" }}>
         <div className="card-wrapper-top" style={{ color: "#00FF00" }}>
-          <div className="card-icon" style = {{transform : "translate(0px,-1px)"}}><BsFillTriangleFill /></div>
+          <div className="card-icon" style = {{transform : "translate(0px,-1px)"}}><IoTriangleSharp /></div>
           <p >{props.price}</p>
         </div>
         <div className="card-wrapper-bottom">
@@ -18,7 +19,7 @@ const HeaderCard = ({ currency, country, status, price, change, percentage }) =>
     if (props.status === "down")
       return <div style={{ color: "#FF0000" }}>
         <div className="card-wrapper-top">
-          <div className="card-icon" style={{ transform: "rotate(180deg) translate(0px,7px)" }}><BsFillTriangleFill /></div>
+          <div className="card-icon" style={{ transform: "rotate(180deg) translate(0px,7px)" }}><IoTriangleSharp /></div>
           <p >{props.price}</p>
         </div>
         <div className="card-wrapper-bottom">
@@ -26,7 +27,7 @@ const HeaderCard = ({ currency, country, status, price, change, percentage }) =>
         </div>
       </div>
     if (props.status === "equal")
-      return <div style={{ color: "#F1F100" }}>
+      return <div style={{ color: "#FF6F00" }}>
         <div className="card-wrapper-top">
           <div className="card-icon" ><VscTriangleLeft /><VscTriangleRight /></div>
           <p >{props.price}</p>

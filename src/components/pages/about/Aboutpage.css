@@ -1,7 +1,7 @@
 .about-image-wrapper {
     position: relative;
     height: 86vh;
-    background-image: url('../../../data/Background/objective.jpg');
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 88.02%, #FFFFFF 100%), url('../../../data/Background/objective.jpg');
     background-position: center;
     background-size: cover;
     background-position: center;
@@ -58,6 +58,8 @@
     width: 100%;
     height: 100%;
 }
+
+
 
 @media (max-width: 1500px) {
 .about-group-container {

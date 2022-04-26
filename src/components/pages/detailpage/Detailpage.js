@@ -1,14 +1,19 @@
-import React, { useEffect, useRef, useState } from 'react'
+import React, { useContext, useEffect, useRef, useState } from 'react'
 import * as d3 from 'd3';
 import { IoTriangleSharp } from 'react-icons/io5';
 import { VscTriangleLeft, VscTriangleRight } from 'react-icons/vsc';
-import flag from "../../../data/Flag/Sweden.png";
+import flag from "../../../data/Flag/AED.png";
 import "./Detailpage.css"
 import BankTable from '../../banktable/BankTable';
 import axios from 'axios'
+import background from "../../../data/Country/America.jpg"
 import { useParams } from 'react-router-dom';
+import { ThemeContext } from '../../../context';
 
-const Detailpage = ({ props }) => {
+const Detailpage = () => {
+    const theme = useContext(ThemeContext)
+    const darkMode = theme.state.darkMode
+
 
     const { id } = useParams();
 
@@ -19,6 +24,7 @@ const Detailpage = ({ props }) => {
                 setGraphData(res.data.GRAPH)
                 setBankData(res.data.BANK)
                 setRender(true)
+                console.log(res.data.DETAILS)
             }
             )
     }, [])
@@ -343,58 +349,58 @@ const Detailpage = ({ props }) => {
 
 
     function Generaterightwrapper() {
-        if (props.status === "up")
+        if (detailData.status === "up")
             return <div className="detail-right-wrapper" style={{ color: "#00FF00" }}>
                 <div className="detail-upper-wrapper">
                     <div className="detail-icon-wrapper" style={{ transform: "translate(0px,4px)" }}>
                         <IoTriangleSharp />
                     </div>
                     <h1>
-                        {props.price}฿
+                        {detailData.price}฿
                     </h1>
                 </div>
                 <div className="detail-down-wrapper">
-                    <p>+{props.change}(+{props.percentage})</p>
+                    <p>+{detailData.change}(+{detailData.percentage})</p>
                 </div>
             </div>
-        if (props.status === "down")
+        if (detailData.status === "down")
             return <div className="detail-right-wrapper" style={{ color: "#FF0000" }}>
                 <div className="detail-upper-wrapper">
                     <div className="detail-icon-wrapper" style={{ transform: "rotate(180deg) translate(0px,5px)" }}>
                         <IoTriangleSharp />
                     </div>
                     <h1>
-                        {props.price}฿
+                        {detailData.price}฿
                     </h1>
                 </div>
                 <div className="detail-down-wrapper">
-                    <p>-{props.change}(+{props.percentage})</p>
+                    <p>-{detailData.change}(+{detailData.percentage})</p>
                 </div>
             </div>
-        if (props.status === "equal")
-            return <div className="detail-right-wrapper" style={{ color: "#F1F100" }}>
+        if (detailData.status === "equal")
+            return <div className="detail-right-wrapper" style={{ color: "#FF6F00" }}>
                 <div className="detail-upper-wrapper">
                     <div className="detail-icon-wrapper" style={{ transform: "rotate(180deg) translate(0px,5px)" }}>
                         <VscTriangleLeft />
                         <VscTriangleRight />
                     </div>
                     <h1>
-                        {props.price}฿
+                        {detailData.price}฿
                     </h1>
                 </div>
                 <div className="detail-down-wrapper">
-                    <p>+{props.change}(+{props.percentage})</p>
+                    <p>+{detailData.change}(+{detailData.percentage})</p>
                 </div>
             </div>
     }
 
     return (
         <>
-            <div className="detail-image-wrapper">
-                <div className="detail-box">
+            <div className="detail-image-wrapper"  style = {{backgroundImage : darkMode && `linear-gradient(180deg, rgba(18, 18, 18, 0) 33.82%, #121212 83%), url(${background})`}}>
+                <div className="detail-box" style = {{background : darkMode && "rgba(33, 33, 33, 0.75)"}}>
                     <div>
                         <h1>
-                            United States of America
+                            {detailData ? detailData.name : "Wait for loading"}
                         </h1>
                     </div>
                     <div className="top-left"></div>
@@ -404,26 +410,26 @@ const Detailpage = ({ props }) => {
                 </div>
             </div>
             <div className="box-wrapper">
-                <div className="top-currency-wrapper">
+                <div className="top-currency-wrapper" style = {{background : darkMode && "#424242"}}>
                     <div className="detail-left-wrapper">
                         <div className="detail-img-wrapper">
-                            <img src={flag} alt="No flag found" />
+                            {detailData && <img src={require(`../../../data/Flag/${detailData.currency}.png`)} alt="No flag found" />}
                         </div>
                         <div className="detail-currency-wrapper">
-                            <h1>{props.currency}</h1>
-                            <p>{props.description}</p>
+                            <h1>{detailData && detailData.currency}</h1>
+                            <p>{detailData && detailData.description}</p>
                         </div>
                     </div>
-                    <Generaterightwrapper />
+                    {detailData && <Generaterightwrapper />}
                 </div>
-                <div className="price-box">
+                <div className="price-box" style = {{background : darkMode && "#424242"}}>
                     <div className="detail-open">
                         <div className="detail-inside">
                             <h3>
                                 Open
                             </h3>
                             <p>
-                                32.00
+                                {detailData && detailData.open}
                             </p>
                         </div>
                         <div className="border-detail-pricebox"></div>
@@ -434,7 +440,7 @@ const Detailpage = ({ props }) => {
                                 High
                             </h3>
                             <p>
-                                32.00
+                                {detailData && detailData.high}
                             </p>
                         </div>
                         <div className="border-detail-pricebox"></div>
@@ -445,12 +451,12 @@ const Detailpage = ({ props }) => {
                                 Low
                             </h3>
                             <p>
-                                32.00
+                                {detailData && detailData.low}
                             </p>
                         </div>
                     </div>
                 </div>
-                <div className="graph-box">
+                <div className="graph-box" style = {{background : darkMode && "#424242"}}>
                     {render ? <div className="detail-graph-wrapper"><svg ref={svgRef} id="graph"></svg></div> : <h1>Graph Loading</h1>}
                     <div className="detail-button-wrapper">
                         <div ref={button1Ref} onClick={clickButton1} style={{ background: button1 ? "#0073CF" : "white", color: button1 ? "white" : "black", border: button1 ? "none" : "solid 1px" }} className="detail-button">1M</div>
@@ -459,7 +465,7 @@ const Detailpage = ({ props }) => {
                         <div ref={button4Ref} onClick={clickButton4} style={{ background: button4 ? "#0073CF" : "white", color: button4 ? "white" : "black", border: button4 ? "none" : "solid 1px" }} className="detail-button">1Y</div>
                     </div>
                 </div>
-                {render ? <BankTable props = {bankData}/> : <h1>Table Loading</h1>}
+                {render ? <BankTable props = {bankData} /> : <h1>Table Loading</h1>}
             </div>
         </>
     )

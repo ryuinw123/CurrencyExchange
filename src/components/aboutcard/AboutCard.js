@@ -1,17 +1,18 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import img from "../../data/Profile/romtham.png"
 import "./AboutCard.css"
 
-const AboutCard = () => {
+const AboutCard = ({image,name}) => {
+
   return (
     <div className = "about-card">
         <div className="about-image-container">
             <div className="about-background"></div>
-            <img src= {img} alt="" className="about-img" />
+            <img src= {image} alt="" className="about-img" />
         </div>
         <h3>
-            Name<br />
-            Surname
+            {name.name}<br />
+            {name.surname}
         </h3>
     </div>
   )

@@ -1,11 +1,13 @@
-import React from 'react'
-import image from "../../data/Flag/Sweden.png"
+import React, { useContext } from 'react'
 import { IoTriangleSharp } from 'react-icons/io5';
 import { VscTriangleLeft,VscTriangleRight } from 'react-icons/vsc';
 import "./CurrencyCard.css"
 import { Link } from 'react-router-dom';
+import { ThemeContext } from '../../context';
 
 const CurrencyCard = ({props}) => {
+  const theme = useContext(ThemeContext)
+    const darkMode = theme.state.darkMode
     
     function GenerateIcon() {
         if (props.status === "up")
@@ -37,7 +39,7 @@ const CurrencyCard = ({props}) => {
             </div>
           </div>
         if (props.status === "equal")
-          return <div style={{ color: "#F1F100" }}>
+          return <div style={{ color: "#FF6F00" }}>
             <div className="card-wrapper">
               <div className="card-icon" ><VscTriangleLeft /><VscTriangleRight /></div>
               <div className = "card-text-wrapper">
@@ -55,35 +57,34 @@ const CurrencyCard = ({props}) => {
   return (
     <Link 
       to={{
-        pathname : `detail/${props.currency}`,
-        state : { message :  "HI" }
-        }}  className = "currency-card">
+        pathname : `detail/${props.currency}`
+        }}  className = "currency-card" style = {{'--background-color' : darkMode ? "#424242" : "white"}}>
         <div className="upper-card-wrapper">
             <div className="img-wrapper">
-                <img src={image} alt="" className = "flag-img"/>
+                <img src={require(`../../data/Flag/${props.currency}.png`)} alt="" className = "flag-img"/>
             </div>
-            <p>
+            <p style = {{color : darkMode && "white"}}>
                 {props.name}
             </p>
-            <h1>
+            <h1 style = {{color : darkMode && "white"}}>
                 {props.currency}
             </h1>
-            <h3>
+            <h3 style = {{color : darkMode && "white"}}>
                 {props.description}
             </h3>
         </div>
         <GenerateIcon />
         <div className="down-card-wrapper">
             <div className = "pricebox">
-                <h3>Open</h3>
-                <p>{props.open}</p>
+                <h3 style = {{color : darkMode && "white"}}>Open</h3>
+                <p style = {{color : darkMode && "white"}}>{props.open}</p>
             </div>
             <div className = "pricebox">
-                <h3>High</h3>
+                <h3 style = {{color : darkMode && "white"}}>High</h3>
                 <p style = {{color : "#00FF00" }} >{props.high}</p>
             </div>
             <div className = "pricebox">
-                <h3>Low</h3>
+                <h3 style = {{color : darkMode && "white"}}>Low</h3>
                 <p style = {{color : "#FF0000" }}>{props.low}</p>
             </div>
         </div>
@@ -92,3 +93,4 @@ const CurrencyCard = ({props}) => {
 }
 
 export default CurrencyCard
+

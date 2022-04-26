@@ -1,10 +1,13 @@
-import React from 'react'
+import React, { useContext } from 'react'
+import { ThemeContext } from '../../../context'
 import "./Homepage.css"
 
 const Homepage = () => {
-    return (
+    const theme = useContext(ThemeContext)
+    const darkMode = theme.state.darkMode
+    return (<>
         <div className="home-image-wrapper">
-            <div className="homepage-box">
+            <div className="homepage-box" style = {{background : darkMode && "rgba(33, 33, 33, 0.75)"}}>
                 <div className="homepage-text">
                     <h1>
                         CURRENCY<br />
@@ -21,6 +24,8 @@ const Homepage = () => {
                 <div className = "bottom-right"></div>
             </div>
         </div>
+        <div className="extend"></div>
+        </>
     )
 }
 

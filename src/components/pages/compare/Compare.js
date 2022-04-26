@@ -1,11 +1,15 @@
-import React, { useEffect, useRef, useState } from 'react'
+import React, { useContext, useEffect, useRef, useState } from 'react'
 import { BiBarChartAlt2 } from 'react-icons/bi'
 import CompareSearch from '../../comparesearch/CompareSearch'
 import * as d3 from 'd3';
 import './Compare.css';
 import axios from "axios";
+import background from "../../../data/Background/currency.jpg"
+import { ThemeContext } from '../../../context';
 
 const Compare = () => {
+  const theme = useContext(ThemeContext)
+  const darkMode = theme.state.darkMode
   const svgRef = useRef()
   const [dataLoad, setDataLoad] = useState(false)
   const [data, setData] = useState()
@@ -597,8 +601,8 @@ const Compare = () => {
   const input5 = useRef()
   return (
     <>
-      <div className="compare-image-wrapper">
-        <div className="compare-box">
+      <div className="compare-image-wrapper" style = {{backgroundImage : darkMode && `linear-gradient(180deg, rgba(18, 18, 18, 0) 33.82%, #121212 83%), url(${background})`}}>
+        <div className="compare-box" style = {{background : darkMode && "rgba(33, 33, 33, 0.75)"}}>
           <div className="compare-text">
             <div className="icon-wrapper"><BiBarChartAlt2 /></div>
             <h1>
@@ -613,7 +617,7 @@ const Compare = () => {
         </div>
       </div>
       <div className="compare-body">
-        <div className="compare-currency">
+        <div className="compare-currency" style = {{background : darkMode && "#424242"}}>
           <div className="currency-color-wrapper">
             <div className="currency-color">
               <div className="circle-color" style={{ background: "#E53935" }}></div>
@@ -651,8 +655,8 @@ const Compare = () => {
           </div>
         </div>
         <div className="compare-graph">
-          <div className="compare-graph-wrapper"><div id="multi-graph" ref={svgRef} div/></div>
-          <div className="compare-button-wrapper">
+          <div className="compare-graph-wrapper" style = {{background : darkMode && "#424242"}}><div id="multi-graph" ref={svgRef} div/></div>
+          <div className="compare-button-wrapper" style = {{background : darkMode && "#424242"}}>
             <div ref={button1Ref} onClick={clickButton1} style={{ background: button1 ? "#0073CF" : "white", color: button1 ? "white" : "black", border: button1 ? "none" : "solid 1px" }} className="compare-button">1M</div>
             <div ref={button2Ref} onClick={clickButton2} style={{ background: button2 ? "#0073CF" : "white", color: button2 ? "white" : "black", border: button2 ? "none" : "solid 1px" }} className="compare-button">3M</div>
             <div ref={button3Ref} onClick={clickButton3} style={{ background: button3 ? "#0073CF" : "white", color: button3 ? "white" : "black", border: button3 ? "none" : "solid 1px" }} className="compare-button">6M</div>
