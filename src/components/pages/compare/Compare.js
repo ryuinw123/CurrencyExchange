@@ -4,7 +4,7 @@ import CompareSearch from '../../comparesearch/CompareSearch'
 import * as d3 from 'd3';
 import './Compare.css';
 import axios from "axios";
-import background from "../../../data/Background/currency.jpg"
+import background from "../../../data/Background/compare.jpg"
 import { ThemeContext } from '../../../context';
 
 const Compare = () => {

@@ -6,7 +6,7 @@ import { ThemeContext } from '../../../context';
 import BankTable from '../../banktable/BankTable';
 import Bestbank from '../../bestbank/Bestbank';
 import BestSearch from '../../bestsearch/BestSearch';
-import background from "../../../data/Background/money.jpg"
+import background from "../../../data/Background/choice.jpg"
 import currency_data from '../../../data/Currency/mock_currency_all.json'
 import currency_buy from '../../../data/Currency/mock_currency_buy.json'
 import currency_sell from '../../../data/Currency/mock_currency_sell.json'
