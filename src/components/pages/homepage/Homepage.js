@@ -24,6 +24,10 @@ const Homepage = () => {
                 <div className = "bottom-right"></div>
             </div>
         </div>
+        <div className="github-link">
+                <a href="https://github.com/ryuinw123/CurrencyExchange">Front-end Github Link</a>
+                <a href="https://github.com/Filmsuphanut/TOC-backend">Back-end Github Link</a>
+            </div>
         <div className="extend"></div>
         </>
     )
