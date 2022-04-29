@@ -211,7 +211,7 @@ const Detailpage = () => {
 
             var board = focus.append("rect")
                 .attr("class", "tooltip")
-                .attr("width", 100)
+                .attr("width", 113)
                 .attr("height", 50)
                 .attr("x", 10)
                 .attr("y", -22)
@@ -289,10 +289,10 @@ const Detailpage = () => {
                     d1 = res[i],
                     d = x0 - d0.date > d1.date - x0 ? d1 : d0;
                 if (d3.mouse(this)[0] > 330) {
-                    board.attr("x", -110)
-                    board_date.attr("x",-102)
-                    board_test_price.attr("x",-102)
-                    board_price.attr("x",-60)
+                    board.attr("x", -130)
+                    board_date.attr("x",-122)
+                    board_test_price.attr("x",-122)
+                    board_price.attr("x",-80)
                 }
                 else {
                     board.attr("x", 10)

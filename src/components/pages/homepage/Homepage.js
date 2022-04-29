@@ -27,7 +27,7 @@ const Homepage = () => {
         <div className="github-link">
                 <a href="https://github.com/ryuinw123/CurrencyExchange">Front-end Github Link</a>
                 <a href="https://github.com/Filmsuphanut/TOC-backend">Back-end Github Link</a>
-            </div>
+        </div>
         <div className="extend"></div>
         </>
     )
